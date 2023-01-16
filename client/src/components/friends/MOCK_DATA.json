@@ -1,0 +1,14 @@
+[
+    {"firstName":"John", "lastName":"Doe", "link":"http://localhost:3000/availableFriends"},
+    {"firstName":"Anna", "lastName":"Smith", "link":"http://localhost:3000/availableFriends"},
+    {"firstName":"Peter", "lastName":"Jones", "link":"http://localhost:3000/availableFriends"},
+    {"firstName":"Rolando", "lastName":"Morales", "link":"http://localhost:3000/availableFriends"},
+    {"firstName":"Penelope", "lastName":"Mcintosh", "link":"http://localhost:3000/availableFriends"},
+    {"firstName":"Virginia", "lastName":"Miller", "link":"http://localhost:3000/availableFriends"},
+    {"firstName":"Diego", "lastName":"Di Liscia", "link":"http://localhost:3000/availableFriends"},
+    {"firstName":"David", "lastName":"Di Liscia", "link":"http://localhost:3000/availableFriends"},
+    {"firstName":"Javier", "lastName":"Ochoa", "link":"http://localhost:3000/availableFriends"},
+    {"firstName":"Igor", "lastName":"Markov", "link":"http://localhost:3000/availableFriends"},
+    {"firstName":"Roberto", "lastName":"De Angelis", "link":"http://localhost:3000/availableFriends"}
+
+]

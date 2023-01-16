@@ -1,0 +1,7 @@
+.idea/
+
+.vscode/
+
+package-lock.json
+server/app/config/db.config.js
+server/app/config/db.config.js

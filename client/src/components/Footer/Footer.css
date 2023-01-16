@@ -1,0 +1,17 @@
+.Footer {
+  color: white;
+  position: fixed;
+  background: rgb(36, 107, 194);
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 80px;
+  bottom: 0;
+}
+
+p {
+  margin-bottom: 0 !important; 
+}
